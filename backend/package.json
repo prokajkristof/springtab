@@ -1,0 +1,25 @@
+{
+  "name": "springtab",
+  "version": "1.0.0",
+  "description": "springtab exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prokajkristof/springtab.git"
+  },
+  "keywords": [
+    "springtab"
+  ],
+  "author": "Prokaj Kristof",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokajkristof/springtab/issues"
+  },
+  "homepage": "https://github.com/prokajkristof/springtab#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
